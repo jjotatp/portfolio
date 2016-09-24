@@ -1,0 +1,12 @@
+.modal-body > ul{
+    list-style: none;    
+}
+
+.modal-body > h2{
+    color: #2c1050;
+}
+
+.carousel-inner > img{
+    margin-left: 20px;
+}
+
